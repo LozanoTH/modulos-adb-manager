@@ -1,8 +1,8 @@
 [
   {
-    "name": "Optimizador de memoria ZRAM+",
-    "description": "Mejora la gestión de memoria y reduce cierres forzados",
-    "zip_url": "https://lozanoth.github.io/modulos-adb-manager/zram_plus.zip"
+    "name": "fps free fire",
+    "description": "Este módulo es un script autónomo ejecutado directamente en Android shell (/system/bin/sh) cuyo objetivo es forzar el máximo rendimiento posible del sistema durante la ejecución de Free Fire, sacrificando consumo energético, control térmico y políticas de ahorro.",
+    "zip_url": "https://lozanoth.github.io/modulos-adb-manager/fps free fire.zip"
   },
   {
     "name": "ADB Performance Booster",
