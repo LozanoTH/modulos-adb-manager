@@ -20,7 +20,7 @@ Este módulo es un script autónomo ejecutado directamente en Android shell (/sy
 
 ```
 module/
-├── Man.sh
+├── main.sh
 └── uninstall.sh
 ```
 
